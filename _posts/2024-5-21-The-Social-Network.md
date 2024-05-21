@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Social Network"
 date: 2024-05-21
 ---
