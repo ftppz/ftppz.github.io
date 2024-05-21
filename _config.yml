@@ -1,5 +1,10 @@
 theme: jekyll-theme-hacker 
-title: ftppz's daily murmurs
-author: feifan lu
+title: feifan's daily murmurs
+author: ftppz
 description: Just for fun.
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins: 
+  - jekyll-remote-theme
+
 
