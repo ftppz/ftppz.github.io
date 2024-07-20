@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Social Network"
+title: "the social network"
 date: 2024-05-21
 ---
 
