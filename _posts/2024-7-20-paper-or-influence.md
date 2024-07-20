@@ -8,8 +8,10 @@ Recently, i attended CCF Chip 2024 in Shanghai.
 I met Dr.Deng, her slides are same as before.  
 Even although i didn't get the answer that i wanted.  
 My Q: your paper demonstrates numerous side-channel attacks,   
-but which subset really needs to be considered and defened in tht industry?  
-Deng A: in fact, there is a standard line in industry and academic. if it exceeds the standard line, protection is really need. However, some are close to this line, so it depends on the considerations of each manufacturer.
+but which subset really needs to be considered and defened in the industry?  
+Deng A: in fact, there has a standard line in industry and academic.   
+if it exceeds the standard line, protection is really need.   
+However, some are close to this line, so it depends on the considerations of each manufacturer.
 
 Got her wechart, after reading some papers, i will asd again.  
 
@@ -25,9 +27,9 @@ boring
 interesting
 
 LLM needs a slef-reflection machanism.  
-i didn't see the Moore thread engineer coming.  
+i didn't see the Moore Thread engineers here.  
 
-hhh, we met HR's student who caused us to be scolded.  
+hhh, we met Mr Hou's student who caused us to be scolded.  
 
 ---
 
