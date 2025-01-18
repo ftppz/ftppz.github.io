@@ -8,7 +8,7 @@ Some interesting things happened this semester.
 
 I have a new roommate:Xurong-Smart Boy.  
 
-Zhongqiang took me hiking in Suzhou and we met may new friends-Zhong and Liang and so on.
+Zhongqiang took me hiking in Suzhou and we met many new friends-Zhong and Liang and so on.
 
 In EE213, i met Z through Jiawei. Cute girl.  
 We went to Suzhou and Huangshan.  
